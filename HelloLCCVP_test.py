@@ -22,6 +22,10 @@ user1 = 'Tony Chang'
 org1 = 'Montana State University'
 print(' This is '+ user1 + ' from ' + org1 + '.' + 'Glad that github is working!')
 
+user2 =  'Patrick Jantz'
+org2 = 'Woods Hole Research Center'
+print (' This is ' + user2 + 'from ' + org2 + '.' + ' Checking in.')
+
 #---------------------------------END INTRO SECTION---------------------------------------------------
 
 
