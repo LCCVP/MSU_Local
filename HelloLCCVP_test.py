@@ -20,7 +20,7 @@ print('If you can read this, please add another print line with your name and or
 #---------------------------------INTRO SECTION-------------------------------------------------------
 user1 = 'Tony Chang'
 org1 = 'Montana State University'
-print(' This is '+ user1 + ' from ' + org1 + '.' + 'Glad that github is working!')
+print(' This is '+ user1 + ' from ' + org1 + '.' + ' Glad that github is working!')
 
 user2 =  'Patrick Jantz'
 org2 = 'Woods Hole Research Center'

@@ -17,6 +17,9 @@ user1 <- 'Patrick Jantz'
 org1 <- 'Woods Hole Research Center'
 print(paste('This is ',user1,' from ',org1,'.',' Checking in.',sep=""))
 
+user2 <- 'Tony Chang'
+org2 <- 'Montana State University'
+print(paste('This is ',user2,' from ',org2,'.',' Checking in. All things go here.',sep=""))
 #---------------------------------END INTRO SECTION---------------------------------------------------
 
 
