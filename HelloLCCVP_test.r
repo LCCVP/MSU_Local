@@ -20,6 +20,12 @@ print(paste('This is ',user1,' from ',org1,'.',' Checking in.',sep=""))
 user2 <- 'Tony Chang'
 org2 <- 'Montana State University'
 print(paste('This is ',user2,' from ',org2,'.',' Checking in. All things go here.',sep=""))
+
+user3 <- "John Gross"
+org3 <- "NPS"
+print(paste('This is ',user3,' from ',org3,'.',' Checking in.',sep=""))
+
+
 #---------------------------------END INTRO SECTION---------------------------------------------------
 
 
